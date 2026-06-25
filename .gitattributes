@@ -1,0 +1,17 @@
+# Normalize line endings to LF in the repo so the Spotless formatter stays
+# happy regardless of the contributor's OS (Windows checkouts kept native).
+* text=auto eol=lf
+
+*.java   text eol=lf
+*.xml    text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+*.md     text eol=lf
+*.config text eol=lf
+Dockerfile text eol=lf
+
+# Treat these as binary so git never touches them.
+*.jar binary
+*.png binary
+*.jpg binary
+*.pdf binary
