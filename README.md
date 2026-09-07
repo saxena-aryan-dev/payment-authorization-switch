@@ -1,6 +1,6 @@
 # Payment Authorization Switch
 
-[![CI](https://github.com/code2946/Payment-Authorization-Switch-/actions/workflows/ci.yml/badge.svg)](https://github.com/code2946/Payment-Authorization-Switch-/actions/workflows/ci.yml)
+[![CI](https://github.com/saxena-aryan-dev/payment-authorization-switch/actions/workflows/ci.yml/badge.svg)](https://github.com/saxena-aryan-dev/payment-authorization-switch/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen)
 ![Build](https://img.shields.io/badge/build-Maven-blue)
